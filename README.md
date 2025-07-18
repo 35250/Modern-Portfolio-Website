@@ -20,9 +20,8 @@ You can view the deployed website here: [🔗 Live Demo](https://modern-portfoli
 ## 🧑‍💻 Author
 **Ayan Dey**  
 B.Tech CSE (AI/ML), 2nd Year  
-LinkedIn Profile:(www.linkedin.com/in/ayandey212105242)
-GitHub Profile:
-(https://github.com/35250) 
+🔗 [LinkedIn](https://linkedin.com/in/ayandey212105242)  
+💻 [GitHub](https://github.com/35250)
 
 ---
 
